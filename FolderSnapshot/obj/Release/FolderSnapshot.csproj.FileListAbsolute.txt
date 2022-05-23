@@ -1,0 +1,7 @@
+C:\Build\FolderSnapshot\FolderSnapshot\bin\Release\FolderSnapshot.exe.config
+C:\Build\FolderSnapshot\FolderSnapshot\bin\Release\FolderSnapshot.exe
+C:\Build\FolderSnapshot\FolderSnapshot\bin\Release\FolderSnapshot.pdb
+C:\Build\FolderSnapshot\FolderSnapshot\obj\Release\FolderSnapshot.FormMain.resources
+C:\Build\FolderSnapshot\FolderSnapshot\obj\Release\FolderSnapshot.csproj.GenerateResource.Cache
+C:\Build\FolderSnapshot\FolderSnapshot\obj\Release\FolderSnapshot.exe
+C:\Build\FolderSnapshot\FolderSnapshot\obj\Release\FolderSnapshot.pdb
